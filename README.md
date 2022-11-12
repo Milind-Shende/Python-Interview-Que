@@ -85,9 +85,10 @@ Solve
 12.Give Examples For Creating a data frame from list and dictionary.?
 
 :-
-
 data_list=[1,2,3,4,5]
 dict1={'fruit':['apple','mango','banana'],'count':[4,6,8]}
+
+
 13.From Iris Dataset, extract only those records where 'sepal.length' is greater than 5 and 'sepal.width' is greater than 3.
 
 Iris dataset url:-[ http://bit.ly/3Tx5bWS ]
@@ -129,19 +130,16 @@ Suppose we need to bulit a calulator so we will bulit addition,subtraction,multi
 23.Replace all the odd numbers in this NumPy array to -1.?
 
 :-
-
 [0,1,2,3,4,5,6,7,8,9]=[0,-1,2,-1,4,-1,6,
 
 24.How Can you get common items between two Numpy array.?
 
 :-
-
 [0,1,2,3,4,5,6,7,8,9],[7,2,10,2,7,4,9,4,9,8] =[2,4]
 
 25.How To Convert the first charecter of each element in pandas searies to uppercase.?
 
 :-
-
 ['mary','had','a','little',lamb]= ['Mary','Had','A','Little','Lamb']
 
 26.How Would You Calculate the number of characters in each word in a sseries.?
@@ -151,13 +149,13 @@ Suppose we need to bulit a calulator so we will bulit addition,subtraction,multi
 27.In this 'iris'dataframe,change the column name 'sepal.length' to s'S_Length'.?
 
 :-
-
 Iris dataset:- [ http://bit.ly/3Tx5bWS ]
 
 28.Build a linear regression model on this 'Boston' dataframe where the independent variable is 'rm' and dependent variable is 'medv'.The train and test split needs to be 80:20.?
-
+:-
 Boston Dataset:-[https://raw.githubusercontent.com/Milind-Shende/Practice-Dataset/main/HousingData.csv]
 
 29.Build a decision tree classifier model on 'iris' dataframe where the dependent variable is 'Species' and independent varibles are the rest of the columns.the train test split needs to be 70:30.?
 
+:-
 Iris dataset:- [ http://bit.ly/3Tx5bWS ]
