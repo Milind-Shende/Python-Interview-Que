@@ -16,14 +16,15 @@ Eg.True,False,also,in,as,Not,None,If,for,else,import,pass,continue,break,and
 
 Litrals are the Constants used in Python
 
-String Literals , Eg.name="Alex",surname="John"
-Numeric Literals, Eg. Int(100,-244),Float(12.3,51.4),Complex(3.14j)
-Boolean Litrals, Eg.True,False
-Special Litrals, Eg.Val2=None
+* String Literals , Eg.name="Alex",surname="John"
+* Numeric Literals, Eg. Int(100,-244),Float(12.3,51.4),Complex(3.14j)
+* Boolean Litrals, Eg.True,False
+* Special Litrals, Eg.Val2=None
+
+
 3.What is dictionary in python.? Also Create a dictionary where the keys is "Fruit_Name" and there are 4 fruit names as values Print there keys and values Individual.?
 
 :-
-
 Dictionary is an unordered collection of key-value pairs
 Key and Value pairs are in Curly Brackets
 Use Juiter Notebook Or Google Colab To Solve The Que.
