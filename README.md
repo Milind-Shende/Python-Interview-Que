@@ -76,11 +76,11 @@ Solve
 
 :-
 
- +  = 
+[1,2,3] + [4,5,6] = [5,7,9]
 
 11.How can you get the  largest values from a NumPy array.?
 
- = 
+[12,43,2,100,54,5,68] = [10,68]
 
 12.Give Examples For Creating a data frame from list and dictionary.?
 
@@ -120,7 +120,7 @@ Suppose we need to bulit a calulator so we will bulit addition,subtraction,multi
 
 :- You Randomize the items of a list using the shuffle() function
 
-= 
+['Mary','had','a','little','lamb']= ['a','had','Mary','lamb','little']
 
 22.Write a program to get the length of the string 'Ophthalmology' without using the len() function.?
 
